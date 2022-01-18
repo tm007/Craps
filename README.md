@@ -1,2 +1,4 @@
 # Craps
-first
+APCS CRAPS GAME JAVA - THEOM
+
+good luck
